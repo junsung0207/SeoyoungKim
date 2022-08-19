@@ -121,6 +121,14 @@ body{
   opacity:0.76;
 
   z-index: 3;
+  animation-name:faded;
+  animation-duration:2s;
+  animation-timing-function: ease;
+}
+
+@keyframes faded {
+  from {opacity: 0;}
+  to {opacity:1;}
 }
 
 .container{
