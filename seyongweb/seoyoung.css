@@ -89,7 +89,7 @@ body{
 }
 
 .person{
-  background-image: url("./image/background.jpg");
+  background-image: url("./image/background.JPG");
   background-size:contain;
   background-repeat: no-repeat;
   background-position: center;
