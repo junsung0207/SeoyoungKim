@@ -136,7 +136,17 @@ body{
   width:100%;
   position:absolute;
   z-index: 6;
+  text-align: center;
+  font-family: 'Noto Sans KR',sans-serif;
+  display:flex;
+  justify-content: center;
+  font-size:8pt;
+  letter-spacing: 1pt;
 
+}
+.container span{
+  position:absolute;
+  bottom:10px;
 }
 
 /* font-family: 'Lobster', cursive;
